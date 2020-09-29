@@ -4,6 +4,6 @@
 .vs/
 obj/
 bin/
-aspnet-core/src/Dash-ABP.Web.Host/App_Data/Logs/
-aspnet-core/src/Dash-ABP.Web.Mvc/App_Data/Logs/
-aspnet-core/src/Dash-ABP.Migrator/Logs/Logs.txt
+aspnet-core/src/gatling.Web.Host/App_Data/Logs/
+aspnet-core/src/gatling.Web.Mvc/App_Data/Logs/
+aspnet-core/src/gatling.Migrator/Logs/Logs.txt

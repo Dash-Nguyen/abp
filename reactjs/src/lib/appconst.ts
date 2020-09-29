@@ -3,7 +3,7 @@ const AppConsts = {
     defaultAdminUserName: 'admin',
   },
   localization: {
-    defaultLocalizationSourceName: 'Dash-ABP',
+    defaultLocalizationSourceName: 'gatling',
   },
   authorization: {
     encrptedAuthTokenName: 'enc_auth_token',
